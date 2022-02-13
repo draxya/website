@@ -6,24 +6,24 @@ interface IProps {
 export const Header:FC<IProps> = function({title}){
     return (
     <Head>
-        <title>{title} | rexulec.</title>
-        <meta name="description" content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares." />
+        <title>{title} | draxya.</title>
+        <meta name="description" content="I'm a back end developer with over 2 years of experience, 17 y/o, from Ankara." />
         <link rel="icon" href="/icon.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
         <meta name="title" content="ReXulEc"/>
-        <meta name="description" content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."/>
+        <meta name="description" content="I'm a back end developer with over 2 years of experience, 17 y/o, from Ankara."/>
 
         <meta property="og:type" content="website"/>
         <meta property="og:url" content="https://rexulec.com"/>
         <meta property="og:title" content="ReXulEc"/>
-        <meta property="og:description" content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."/>
+        <meta property="og:description" content="I'm a back end developer with over 2 years of experience, 17 y/o, from Ankara."/>
         <meta property="og:image" content="https://rexulec.com/icon.png"/>
         <meta property="theme-color" content="#d6cdf9"/>
 
         <meta property="twitter:url" content="https://rexulec.com"/>
         <meta property="twitter:title" content="rexulec.com"/>
-        <meta property="twitter:description" content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."/>
+        <meta property="twitter:description" content="I'm a back end developer with over 2 years of experience, 17 y/o, from Ankara."/>
         <meta property="twitter:image" content="https://rexulec.com/icon.png"/>
         <meta property="twitter:domain" content="rexulec.com"/>
 
