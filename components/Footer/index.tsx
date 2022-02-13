@@ -6,11 +6,11 @@ export const Footer: FC = () => {
       <div className="flex md:w-7/12 w-10/12 justify-between">
         <div className="flex items-center">
           <p className="flex text-md font-medium text-gray-400">
-            Coded & designed by&nbsp;<a href="https://github.com/rexulec/v1/" className="text-gray-100 hover:underline underline-violet-700 underline-1">rexulec</a>
+            Coded & designed by&nbsp;<a href="https://github.com/draxya/" className="text-gray-100 hover:underline underline-violet-700 underline-1">draxya</a>
           </p>
         </div>
         <div className="flex items-center text-gray-300">
-          <p>with {"<3"}</p>
+          <p>with {"♥"}</p>
         </div>
       </div>
     </div>
