@@ -8,7 +8,7 @@ export const Header:FC<IProps> = function({title}){
     <Head>
         <title>{title} | draxya.</title>
         <meta name="description" content="I'm a back end developer with over 2 years of experience, 17 y/o, from Ankara." />
-        <link rel="icon" href="/icon.png" />
+        <link rel="icon" href="/icontop.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
         <meta name="title" content="ReXulEc"/>
