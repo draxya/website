@@ -102,7 +102,7 @@ return (
                   React
                 </p>
                 <p>
-                  Since 2020
+                  Since 2022
                 </p>
               </div>
             </div>
