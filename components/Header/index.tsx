@@ -7,25 +7,25 @@ export const Header:FC<IProps> = function({title}){
     return (
     <Head>
         <title>{title} | draxya.</title>
-        <meta name="description" content="I'm a back end developer with over 2 years of experience, 17 y/o, from Ankara." />
+        <meta name="description" content="I'm a full stack developer with over 2 years of experience, 17 y/o, from Ankara." />
         <link rel="icon" href="/icontop.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-        <meta name="title" content="ReXulEc"/>
-        <meta name="description" content="I'm a back end developer with over 2 years of experience, 17 y/o, from Ankara."/>
+        <meta name="title" content="draxya."/>
+        <meta name="description" content="I'm a full stack developer with over 2 years of experience, 17 y/o, from Ankara."/>
 
         <meta property="og:type" content="website"/>
-        <meta property="og:url" content="https://rexulec.com"/>
-        <meta property="og:title" content="ReXulEc"/>
-        <meta property="og:description" content="I'm a back end developer with over 2 years of experience, 17 y/o, from Ankara."/>
-        <meta property="og:image" content="https://rexulec.com/icon.png"/>
-        <meta property="theme-color" content="#d6cdf9"/>
+        <meta property="og:url" content="https://www.draxya.cf"/>
+        <meta property="og:title" content="draxya."/>
+        <meta property="og:description" content="I'm a full stack developer with over 2 years of experience, 17 y/o, from Ankara."/>
+        <meta property="og:image" content="https://www.draxya.cf/icon.png"/>
+        <meta property="theme-color" content="#9932CC"/>
 
-        <meta property="twitter:url" content="https://rexulec.com"/>
-        <meta property="twitter:title" content="rexulec.com"/>
-        <meta property="twitter:description" content="I'm a back end developer with over 2 years of experience, 17 y/o, from Ankara."/>
-        <meta property="twitter:image" content="https://rexulec.com/icon.png"/>
-        <meta property="twitter:domain" content="rexulec.com"/>
+        <meta property="twitter:url" content="https://www.draxya.cf"/>
+        <meta property="twitter:title" content="www.draxya.cf"/>
+        <meta property="twitter:description" content="I'm a full stack developer with over 2 years of experience, 17 y/o, from Ankara."/>
+        <meta property="twitter:image" content="https://www.draxya.cf/icon.png"/>
+        <meta property="twitter:domain" content="www.draxya.cf"/>
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
