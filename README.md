@@ -1,4 +1,4 @@
-### 💦 draxya.com
+### 💦 www.draxya.cf
 >  This project is completely open source. So you can use it wherever you want
 
 <p align="center">
