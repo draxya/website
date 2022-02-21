@@ -95,7 +95,7 @@ return (
               <div className="p-4 rounded-xl bg-[#252525]">
                 <div className="w-1/2 rounded-xl bg-blue-500 p-4 bg-opacity-20">
                  <img 
-      src="https://www.draxya.cf/cplus.png?auto=compress&cs=tinysrgb&h=350"
+      src="https://www.draxya.com/cplus.png?auto=compress&cs=tinysrgb&h=350"
       alt="new"
       />
                 </div>
