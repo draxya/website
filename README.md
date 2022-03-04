@@ -21,6 +21,22 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 #
 
+### 💞 Deploying
+
+#### For Netlify(recommended):
+- Base directory:
+- Build command: ```npm run build``` or ```yarn buid```
+- Publish directory: ```./out```
+- Environment variables: Set ```NETLIFY_NEXT_PLUGIN_SKIP``` value to ```true``` if you getting errors.
+
+#### For Vercel:
+- Build command: ```npm run build``` or ```yarn build```
+- Output dir: ```out```
+- Install command: ```yarn install```
+- Development command: ```nuxt```
+
+#
+
 ### 🎄 Learn More
 
 To learn more about Next.js, take a look at the following resources:
