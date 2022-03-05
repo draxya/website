@@ -29,12 +29,20 @@ export const CONFIG = {
 
   SIDEPROJECTS: [
     {
+      title: "To-Do List",
+      description: "A React to-do list app.",
+      img: "/projects/todo.png",
+      linkto: "todo",
+      view: "https://todo.draxya.com/",
+      mode: "1"
+    },
+    {
       title: "Aesir Minecraft",
       description: "A brand new survival experience for everyone.",
       img: "/projects/aesirmc.png",
       linkto: "aesir",
       view: "https://discord.gg/VtgeKGh78H",
-      mode: "1"
+      mode: "2"
     }
   ] as SIDEPROJECTS[],
 };

@@ -56,9 +56,21 @@ const index = function(){
                                     <div className="grid md:justify-items-end rounded-xl group-hover:border-[#242424] border-[#1f1f1f] md:border-l-2 md:w-6/12">
                                         <div className="md:grid flex items-center justify-center md:gap-x-0 gap-x-4 md:p-4 pb-4 w-full">
                                         {CONFIG.SIDEPROJECTS[0].linkto && (
-                                            <a className="bg-gray-600 group-hover:bg-gray-700 p-2 px-8 rounded-md text-center transition" href={`https://aesirmc.com`}>Website</a>
+                                            <a className="bg-gray-600 group-hover:bg-gray-700 p-2 px-8 rounded-md text-center transition" href={`https://github.com/draxya/react-yapilacaklar`}>GitHub</a>
                                         )}
                                         {CONFIG.SIDEPROJECTS[0].view && (
+                                            <a className="bg-gray-600 group-hover:bg-blue-600 p-2 px-8 rounded-md text-center transition" href={r.view}>Demo</a>
+                                        )}
+                                        </div>
+                                    </div>
+                                )}
+                                {CONFIG.SIDEPROJECTS[1].mode == "1" && (
+                                    <div className="grid md:justify-items-end rounded-xl group-hover:border-[#242424] border-[#1f1f1f] md:border-l-2 md:w-6/12">
+                                        <div className="md:grid flex items-center justify-center md:gap-x-0 gap-x-4 md:p-4 pb-4 w-full">
+                                        {CONFIG.SIDEPROJECTS[1].linkto && (
+                                            <a className="bg-gray-600 group-hover:bg-gray-700 p-2 px-8 rounded-md text-center transition" href={`https://aesirmc.com`}>Website</a>
+                                        )}
+                                        {CONFIG.SIDEPROJECTS[1].view && (
                                             <a className="bg-gray-600 group-hover:bg-blue-600 p-2 px-8 rounded-md text-center transition" href={r.view}>Discord</a>
                                         )}
                                         </div>
