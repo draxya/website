@@ -140,7 +140,7 @@ return (
               </div>
             </div>
     </div> 
-    <div className="flex end">
+    <div className="flex justify-center">
       <div className="w-full">
               <div className="p-4 rounded-xl bg-[#252525]">
                 <div className="w-1/2 rounded-xl bg-teal-500 p-4 bg-opacity-20">
