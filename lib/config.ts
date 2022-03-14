@@ -23,7 +23,7 @@ export const CONFIG = {
       role: "Founder & Developer",
       what: "I started making of Jutul Music at 2021 and still working to improve the features of it.",
       img: "/projects/jutulmusic.webp",
-      linkto: "https://jutulmusicbot.tk"
+      linkto: "https://jutulmusic.draxya.com"
     }
   ] as MAINPROJECTS[],
 
