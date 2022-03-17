@@ -23,7 +23,7 @@ return (
         </div>
       </div>
       <div className="flex md:pt-10 pt-4 text-gray-400">
-        <a href="mailto:contactdraxya@gmail.com" className="px-8 p-3 rounded-full hover:bg-[#292929] transition bg-[#1f1f1f]">
+        <a href="mailto:barisguvena@draxya.com" className="px-8 p-3 rounded-full hover:bg-[#292929] transition bg-[#1f1f1f]">
           Contact
         </a>
         <a href="https://github.com/draxya" className="ml-2 flex items-center hover:opacity-70 transition">
