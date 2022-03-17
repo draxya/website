@@ -19,7 +19,7 @@ export const Navbar: FC = () => {
               Projects
             </a>
           </Link>
-          <a href="mailto:contactdraxya@gmail.com" className="px-5 p-2 transition rounded-full hover:bg-[#262626] bg-[#1f1f1f]">
+          <a href="mailto:barisguven@draxya.com" className="px-5 p-2 transition rounded-full hover:bg-[#262626] bg-[#1f1f1f]">
             Contact
           </a>
         </div>
