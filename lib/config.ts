@@ -41,7 +41,7 @@ export const CONFIG = {
       description: "The new breath of medieval RPG experience.",
       img: "/projects/aesirmc.png",
       linkto: "https://wiki.aesirmc.com/",
-      view: "https://discord.gg/VtgeKGh78H",
+      view: "https://aesirmc.com",
       mode: "1"
     }
   ] as SIDEPROJECTS[],
