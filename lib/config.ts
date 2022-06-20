@@ -4,35 +4,43 @@ export const CONFIG = {
     {
       title: "Marill ROV",
       description: "Unmanned Underwater Vehicle",
-      role: "Team Member & Software Developer",
+      role: "Electronic Technician & Software Developer",
       what: "Marill is an UUV made for Teknofest 2022 to reach deep in sea without human activity.",
       img: "/projects/marill.jpeg",
-      linkto: "https://github.com/Marill-ROV"
+      linkto: "https://marill.tech"
     },
     {
-      title: "Jutul",
-      description: "A Discord bot for moderation and fun",
-      role: "Founder & Developer",
-      what: "I started making of Jutul back in 2020 and still developinng it.",
-      img: "/projects/jutul.webp",
-      linkto: "https://top.gg/tr/bot/759823414042034178"
+      title: "To-Do List",
+      description: "A minimalist to-do list made with react.",
+      role: "Developer",
+      what: "Compact, beautiful and useful. Everything you need from a to-do list.",
+      img: "/projects/todo.png",
+      linkto: "https://todo.draxya.com"
     },
     {
-      title: "Jutul Music",
-      description: "Jutul's following project with music commands",
-      role: "Founder & Developer",
-      what: "I started making of Jutul Music at 2021 and still working to improve the features of it.",
-      img: "/projects/jutulmusic.webp",
-      linkto: "https://jutulmusic.draxya.com"
+      title: "Discord.JS",
+      description: "Powerful Node.js module that allows you to interact with the Discord API easily.",
+      role: "Contributor",
+      what: "Usability, consistency, and performance are key focuses of discord.js, and it also has nearly 100% coverage of the Discord API.",
+      img: "/projects/discordjs.png",
+      linkto: "https://github.com/discordjs/discord.js"
     }
   ] as MAINPROJECTS[],
 
   SIDEPROJECTS: [
     {
+      title: "POT",
+      description: "A lightweight, fast and reliable programming language.",
+      img: "/projects/pot-banner.png",
+      linkto: "/soon",
+      view: "/soon",
+      mode: "1"
+    },
+    {
       title: "Aesir Minecraft",
-      description: "A brand new survival experience for everyone.",
+      description: "The new breath of medieval RPG experience.",
       img: "/projects/aesirmc.png",
-      linkto: "aesir",
+      linkto: "https://wiki.aesirmc.com/",
       view: "https://discord.gg/VtgeKGh78H",
       mode: "1"
     }
