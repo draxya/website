@@ -15,7 +15,7 @@ export const CONFIG = {
       role: "Developer",
       what: "Compact, beautiful and useful. Everything you need from a to-do list.",
       img: "/projects/todo.png",
-      linkto: "https://todo.draxya.com"
+      linkto: "https://react-yapilacaklar.vercel.app/"
     },
     {
       title: "Discord.JS",
@@ -40,8 +40,8 @@ export const CONFIG = {
       title: "Aesir Minecraft",
       description: "The new breath of medieval RPG experience.",
       img: "/projects/aesirmc.png",
-      linkto: "https://wiki.aesirmc.com/",
-      view: "https://aesirmc.com",
+      linkto: "https://store.aesirmc.com/",
+      view: "https://store.aesirmc.com",
       mode: "1"
     }
   ] as SIDEPROJECTS[],
