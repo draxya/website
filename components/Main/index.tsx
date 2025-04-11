@@ -18,7 +18,6 @@ return (
           <div className="mt-2 flex text-xl text-gray-400 font-semibold">
             <p className="">I'm a full stack developer with over { new Date().getFullYear() - 2020 } years of
               experience.
-              <br/><br/><a href="https://blog-b101-baris-guven.blogspot.com/2024/11/ben-kimim-hobilerim-ve-bilgisayar.html">BIL101 blog ödevime gitmek için buraya tıklayınız.</a>
             </p>
           </div>
         </div>
